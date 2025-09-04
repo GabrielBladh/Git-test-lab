@@ -1,4 +1,6 @@
-Git-lab
-A lan for testing out GitHub
+# Git-lab
+A lab for testing out GitHub
 
 ## For more information
+
+See [this page](https://en.wikipedia.org/wiki/Ada_Lovelace)
